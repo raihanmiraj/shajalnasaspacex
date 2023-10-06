@@ -1,0 +1,26 @@
+.correct-ans{
+    position: absolute;
+    top: -12px;
+    right: 12px;
+    background: rgb(0, 184, 46);
+    border-radius: 10px;
+    padding: 0 7px;
+}
+
+.wrong-ans{
+    position: absolute;
+    top: -12px;
+    right: 12px;
+    background: red;
+    border-radius: 10px;
+    padding: 0 7px; 
+}
+
+.you-click{
+    position: absolute;
+    top: -12px;
+    right: 12px;
+    background: rgb(0, 255, 13);
+    border-radius: 10px;
+    padding: 0 7px;  
+}

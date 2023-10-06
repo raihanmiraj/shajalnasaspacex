@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* body{
+    bg
+} */
+/* body{
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+     --tw-bg-opacity: 1;
+    background-color: rgba(229, 231, 235, var(--tw-bg-opacity))!important;
+   min-height: 100vh;
+} */
